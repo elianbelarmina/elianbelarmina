@@ -2,7 +2,22 @@
 
 ###
 
-<p align="left">É um prazer tê-lo(a) aqui. Sou desenvolvedor Full Stack e ávido por aprender novas tecnologias. Sou motivado em criar soluções ágeis e escaláveis, prezando sempre a facilidade de uso.<br><br>Estou sempre a procura de novas ideias e conexões onde possa haver troca de experiências. Então se desejar pode me chamar e vamos discutir um pouco sobre o mundo Tech ou apenas bater um papo mais aleatório possível.</p>
+<table>
+  <tr>
+    <!-- Coluna esquerda -->
+    <td width="70%" style="vertical-align: top;">
+      <p>
+        É um prazer tê-lo(a) aqui. Sou desenvolvedor Full Stack e ávido por aprender novas tecnologias. 
+        Sou motivado em criar soluções ágeis e escaláveis, prezando sempre a facilidade de uso.<br><br>
+        Estou sempre a procura de novas ideias e conexões onde possa haver troca de experiências. 
+        Então se desejar pode me chamar e vamos discutir um pouco sobre o mundo Tech ou apenas bater um papo mais aleatório possível.
+      </p>
+    </td>
+    <td width="30%" style="vertical-align: top;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdrbmdreGZlN3d5amVjOTB6NjA5NHE3eWZ1cG0wOG1oeXl2dmdqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yyaI1gi5kJDOFuL0Aa/giphy.gif" height="300" alt="linkedin logo"  />
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -72,9 +87,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=elianbelarmina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=elianbelarmina&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/elianbelarmina/elianbelarmina/output/snake.svg" alt="Snake animation" />
-
-###
